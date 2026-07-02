@@ -1,11 +1,11 @@
 {
   "name": "kokedera-icons",
   "displayName": "Kokedera Icons - Japanese Moss Temple Icons",
-  "description": "128 file & folder icons inspired by the moss-covered temple garden Saihō-ji (苔寺) in Kyoto. Flat, organic shapes drawn from moss, stone, and lantern light.",
-  "version": "1.0.3",
+  "description": "151 file & folder icons inspired by the moss-covered temple garden Saihō-ji (苔寺) in Kyoto. Flat, organic shapes drawn from moss, stone, and lantern light.",
+  "version": "1.1.0",
   "publisher": "7th-Layer",
   "author": {
-    "name": "7th Layer"
+    "name": "lastdescent"
   },
   "license": "MIT",
   "icon": "icon.png",
@@ -33,11 +33,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/7th-Layer/kokedera-icons-extension-vscode"
+    "url": "https://github.com/lastdescent/kokedera-icons-extension-vscode"
   },
   "homepage": "https://kokedera.style",
   "bugs": {
-    "url": "https://github.com/7th-Layer/kokedera-icons-extension-vscode/issues"
+    "url": "https://github.com/lastdescent/kokedera-icons-extension-vscode/issues"
   },
   "contributes": {
     "iconThemes": [

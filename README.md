@@ -10,9 +10,9 @@
 
 **Kokedera Icons** is a file icon theme for VS Code, designed to pair with the [Kokedera color theme](https://marketplace.visualstudio.com/items?itemName=7th-Layer.kokedera-theme). Every icon draws from the same palette of moss greens, lantern ambers, and stone grays.
 
-- **128+ file & folder icons** covering languages, frameworks, configs, DevOps, docs, and media
-- **22 named folder icons** with collapsed/expanded variants (src, lib, tests, components, api, database, docker, and more)
-- **296 file extension mappings** — from `.rs` to `.prisma` to `.dockerfile`
+- **151 file & folder icons** covering languages, frameworks, configs, DevOps, docs, and media
+- **21 named folder icons** with collapsed/expanded variants, covering 146 folder names (src, lib, tests, components, api, database, docker, and more)
+- **560+ file name & extension mappings** — from `.rs` to `.prisma` to `kustomization.yaml`
 
 ## Installation
 
