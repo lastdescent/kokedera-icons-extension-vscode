@@ -1,7 +1,7 @@
 {
   "name": "kokedera-icons",
-  "displayName": "Kokedera Icons - Japanese Moss Temple Icons",
-  "description": "A file icon theme inspired by the moss-covered temple garden Saihō-ji (苔寺) in Kyoto. Flat, organic shapes drawn from moss, stone, and lantern light.",
+  "displayName": "Kokedera Icons — Moss Temple Icons",
+  "description": "A moss-temple file icon theme — flat, organic shapes in moss, stone, and lantern light.",
   "version": "1.1.0",
   "publisher": "7th-Layer",
   "author": {
@@ -28,8 +28,7 @@
     "moss",
     "garden",
     "zen",
-    "dark",
-    "japanese"
+    "dark"
   ],
   "repository": {
     "type": "git",

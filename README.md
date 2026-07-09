@@ -1,6 +1,6 @@
-# 苔寺 Kokedera Icons
+# Kokedera Icons
 
-*A file icon theme for [Visual Studio Code](https://code.visualstudio.com), inspired by the moss temple garden in Kyoto.*
+*A file icon theme for [Visual Studio Code](https://code.visualstudio.com), drawn from the quiet green of a moss temple garden.*
 
 > **[kokedera.style](https://kokedera.style)** — visit the website for a full visual walkthrough of the palette, syntax highlighting, and icons.
 
